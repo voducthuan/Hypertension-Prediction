@@ -1,0 +1,9 @@
+[PropertyInfo]
+chatName,String,false,false, , ,false,<default>
+name,String,false,false, , ,true,<default>
+value,double,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

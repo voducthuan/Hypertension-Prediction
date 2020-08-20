@@ -1,0 +1,23 @@
+[PropertyInfo]
+age,int,false,false, , ,false,<default>
+cholesterol,double,false,false, , ,false,<default>
+diabetesPastHistory,boolean,false,false, , ,false,<default>
+diastoleBloodPressure,double,false,false, , ,false,<default>
+exercise,boolean,false,false, , ,false,<default>
+fullName,String,false,false, , ,false,<default>
+glycemic,double,false,false, , ,false,<default>
+hdl_C,double,false,false, , ,false,<default>
+height,double,false,false, , ,false,<default>
+hipSize,double,false,false, , ,false,<default>
+ldl_C,double,false,false, , ,false,<default>
+sex,String,false,false, , ,false,<default>
+smoking,boolean,false,false, , ,false,<default>
+systoleBloodPressure,double,false,false, , ,false,<default>
+triglycerid,double,false,false, , ,false,<default>
+waistSize,double,false,false, , ,false,<default>
+weight,double,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
